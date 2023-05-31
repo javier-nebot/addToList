@@ -20,7 +20,7 @@ const TodoItem = ({ itemProp, handleChange, delTodo, setUpdate }) => {
 	};
 
 	let viewMode = {};
-  let editMode = {};
+	let editMode = {};
   if (editing) {
     viewMode.display = 'none';
   } else {

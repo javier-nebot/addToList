@@ -1,5 +1,6 @@
 ﻿# addToList
 
+## Inicio
 Este proyecto viene de la web:
 
 Part 2:
@@ -14,6 +15,11 @@ https://ibaslogic.com/css-in-reactjs-app/
 Part 8: React Todos App: Add Editing functionality
 https://ibaslogic.com/how-to-edit-todos-items-in-react/
 
+part 9: Profiling: Optimizing Performance in React
+https://ibaslogic.com/react-performance-optimization/
+
+
+## Estructura
 
 ![Structure](images/Capture.png)
 
