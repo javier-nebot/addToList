@@ -15,8 +15,11 @@ https://ibaslogic.com/css-in-reactjs-app/
 Part 8: React Todos App: Add Editing functionality
 https://ibaslogic.com/how-to-edit-todos-items-in-react/
 
-part 9: Profiling: Optimizing Performance in React
+Part 9: Profiling: Optimizing Performance in React
 https://ibaslogic.com/react-performance-optimization/
+
+Part 10: Using LocalStorage with React
+https://ibaslogic.com/persisting-react-state-in-local-storage/
 
 
 ## Estructura
