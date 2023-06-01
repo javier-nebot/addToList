@@ -24,7 +24,7 @@ https://ibaslogic.com/persisting-react-state-in-local-storage/
 
 ## Estructura
 
-![Structure](images/Capture.png)
+![Structure](https://github.com/javier-nebot/addToList/blob/1f0929902faa97ff5d61fa0abb22b68851192c70/images/Capture.PNG)
 
 
 
