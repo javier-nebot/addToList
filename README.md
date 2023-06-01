@@ -21,9 +21,12 @@ https://ibaslogic.com/react-performance-optimization/
 Part 10: Using LocalStorage with React
 https://ibaslogic.com/persisting-react-state-in-local-storage/
 
-Part 11: npm install react-icons
+Part 11: How to Use React Icons
 https://ibaslogic.com/how-to-use-svg-icons-in-react-project/
 
+Part 12: React Context API: Managing Application State
+https://ibaslogic.com/react-context-api/
+Bastante difil a realizar y entender. Hay que mover todos los estados y funciones de TodoLogic a TodoContext.
 
 ## Estructura
 
