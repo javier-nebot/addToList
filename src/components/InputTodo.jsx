@@ -1,5 +1,7 @@
 import { useState } from "react";
 
+import { FaPlusCircle } from "react-icons/fa";
+
 const InputTodo = ({ addTodoItem }) => {
 
   const [title, setTitle] = useState('');
@@ -31,7 +33,13 @@ const InputTodo = ({ addTodoItem }) => {
           onChange={handleChange}
           className="input-text"
         />
-        <button className="input-submit">Submit</button>
+        <button className="input-submit">
+          <FaPlusCircle
+            color="#5e5e5e"
+            size="20px"
+            className="submit-icon"
+          />
+        </button>
       </form>
       <span className="submit-warning">{message}</span>
     </>

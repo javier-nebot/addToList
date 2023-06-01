@@ -21,10 +21,13 @@ https://ibaslogic.com/react-performance-optimization/
 Part 10: Using LocalStorage with React
 https://ibaslogic.com/persisting-react-state-in-local-storage/
 
+Part 11: npm install react-icons
+https://ibaslogic.com/how-to-use-svg-icons-in-react-project/
+
 
 ## Estructura
 
-![Structure](images/Capture.png)
+![Structure](https://github.com/javier-nebot/addToList/blob/1f0929902faa97ff5d61fa0abb22b68851192c70/images/Capture.PNG)
 
 
 
