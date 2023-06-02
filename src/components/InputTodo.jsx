@@ -1,12 +1,12 @@
 import { useState } from 'react';
-import { useTodosContext } from '@/context/TodosContext';
+import { useTodosStore } from '@/store';
 import { FaPlusCircle } from 'react-icons/fa';
 
 const InputTodo = () => {
   const [title, setTitle] = useState('');
   const [message, setMessage] = useState('');
 
-  const { addTodoItem } = useTodosContext();
+  const addTodoItem = useTodosStore((state) => state.addTodoItem);
 
   const handleChange = (e) => {
     setTitle(e.target.value);

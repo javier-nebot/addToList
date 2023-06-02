@@ -28,6 +28,9 @@ Part 12: React Context API: Managing Application State
 https://ibaslogic.com/react-context-api/
 Bastante difil a realizar y entender. Hay que mover todos los estados y funciones de TodoLogic a TodoContext.
 
+Part 13: Zustand Tutorial: Managing React State
+https://ibaslogic.com/zustand-react-state-management/
+
 ## Estructura
 
 ![Structure](https://github.com/javier-nebot/addToList/blob/1f0929902faa97ff5d61fa0abb22b68851192c70/images/Capture.PNG)
