@@ -26,10 +26,16 @@ https://ibaslogic.com/how-to-use-svg-icons-in-react-project/
 
 Part 12: React Context API: Managing Application State
 https://ibaslogic.com/react-context-api/
+
 Bastante difil a realizar y entender. Hay que mover todos los estados y funciones de TodoLogic a TodoContext.
 
 Part 13: Zustand Tutorial: Managing React State
 https://ibaslogic.com/zustand-react-state-management/
+
+Part 14: React Router: The Beginners Guide
+https://ibaslogic.com/routing-with-react-router/
+
+Realizado a partir de reppository Part 12.
 
 ## Estructura
 
