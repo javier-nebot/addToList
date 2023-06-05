@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import { useAuthContext } from "@/context/AuthContext";
+import Header from "@/components/Header";
+
 import styles from '@/styles/Login.module.css'
 
 const Login = () => {
@@ -20,7 +22,9 @@ const Login = () => {
 
   return (
     <div>
-      <h1>Login</h1>
+      <Header>
+        <h1>Login</h1>
+      </Header>
       <div className={styles.formWrapper}>
         <form className={styles.form} onSubmit={handleSubmit}>
           <input
