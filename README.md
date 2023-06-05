@@ -37,6 +37,10 @@ https://ibaslogic.com/routing-with-react-router/
 
 Realizado a partir de reppository Part 12.
 
+Part 15: React children props: What Is It?
+https://ibaslogic.com/react-children-props/
+
+
 ## Estructura
 
 ![Structure](https://github.com/javier-nebot/addToList/blob/1f0929902faa97ff5d61fa0abb22b68851192c70/images/Capture.PNG)
