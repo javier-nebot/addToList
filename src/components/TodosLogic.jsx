@@ -1,14 +1,14 @@
-import InputTodo from "@/components/InputTodo";
-import TodosList from "@/components/TodosList"
+import InputTodo from '@/components/InputTodo';
+import TodosList from '@/components/TodosList';
+
+import { TodosProvider } from '@/context/TodosContext';
 
 const TodosLogic = () => {
-
   return (
-		<div>
+    <TodosProvider>
       <InputTodo />
-      <TodosList/>
-		</div>
-	);
+      <TodosList />
+    </TodosProvider>
+  );
 };
-
 export default TodosLogic;
