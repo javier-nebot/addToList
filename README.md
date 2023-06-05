@@ -40,6 +40,9 @@ Realizado a partir de reppository Part 12.
 Part 15: React children props: What Is It?
 https://ibaslogic.com/react-children-props/
 
+Part 16: React Toggle Button: Let’s Switch Navigation Widget
+https://ibaslogic.com/how-to-add-hamburger-menu-in-react/
+
 
 ## Estructura
 
